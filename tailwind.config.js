@@ -5,5 +5,6 @@ module.exports = {
     require("@tailwindcss/forms"),
     require("@tailwindcss/typography"),
     require("@tailwindcss/line-clamp"),
+    require("@tailwindcss/typography"),
   ],
 };
