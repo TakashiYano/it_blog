@@ -24,7 +24,7 @@
   "dependencies": {
     "dayjs": "^1.11.7",
     "microcms-js-sdk": "^2.3.2",
-    "next": "13.2.1",
+    "next": "13.2.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-error-boundary": "3.1.4"
@@ -42,7 +42,7 @@
     "@typescript-eslint/parser": "5.54.0",
     "autoprefixer": "10.4.13",
     "eslint": "8.35.0",
-    "eslint-config-next": "13.2.1",
+    "eslint-config-next": "13.2.2",
     "eslint-config-prettier": "8.6.0",
     "eslint-plugin-import-access": "1.0.1",
     "eslint-plugin-simple-import-sort": "10.0.0",
